@@ -1,0 +1,111 @@
+body{
+    /* background: #ada7a78f;
+    color: rgb(0, 0, 0); */
+}
+       
+.heading{
+    font-size:3rem;
+}
+
+.points{
+    font-size:1.5rem;
+    margin:1rem;
+}
+
+.about_points{
+    font-size:1.2rem;
+}
+
+/*                        section-1                    */
+
+.section_1{
+    display: flex;
+    width: 100%;
+    margin:0;
+}
+.intro_sec{
+    width: 75%;     
+}
+.name{
+    text-align: left;
+    font-size:4rem;
+    margin:0rem 0rem 4rem 0rem;
+    font-weight:bold;
+}
+.about{
+    /* text-align: left;
+    font-size: 1.2rem; 
+    margin-top: 4.5rem; */
+    display: flex;
+    flex-direction: row;
+}
+.about_me{
+    font-size: 1.2rem;
+    
+}
+
+.pic_sec{
+    width:25%;
+    text-align: center;
+
+}
+.profile_sec{
+    width:14rem;
+    height:14rem;
+}
+
+/*                        section-2               */
+
+.ss_pic{
+    width: 9rem;
+    height: 9rem;
+    margin: 1rem;
+}
+
+/*                     section-3                   */     
+ 
+
+
+/*                        section-4                */ 
+
+
+/*                       section-5                */
+
+/*                       section-6                */
+
+.section_6{
+    background-color: black;
+    color: white;
+    
+}
+
+.contact{
+    text-align: center;
+    font-weight: bold;
+
+}
+.about_social{
+    padding:0.5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.social{
+    margin:1rem;
+    width: 2rem;
+    height: 2rem;
+}   
+
+.ftr_sec{
+    width: 25%;
+    text-align: center;
+}
+
+.prt1{
+    text-align: center;
+}
+
+
+
+
+
